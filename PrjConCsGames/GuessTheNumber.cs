@@ -3,7 +3,8 @@
     internal class GuessTheNumber
     {
         //TODO:
-        //Implement different levels
+        //1 - Implement different levels
+        //2 - Implement function to repeat the game or send back to game selection
         internal static void Play()
         {
             //SelectNivel();
